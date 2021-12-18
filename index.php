@@ -16,6 +16,5 @@
                 <!-- ./container fluid -->
             </div>
             <!-- ./content -->
-            <!-- TRYY -->
             
 <?php include "includes/footer.php"?>
