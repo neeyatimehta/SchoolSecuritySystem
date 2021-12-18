@@ -16,7 +16,5 @@
                 <!-- ./container fluid -->
             </div>
             <!-- ./content -->
-
-            <!--heyyyyyya-->
             
 <?php include "includes/footer.php"?>
