@@ -17,4 +17,5 @@
             </div>
             <!-- ./content -->
             
+            <!--my name is palak -->
 <?php include "includes/footer.php"?>
