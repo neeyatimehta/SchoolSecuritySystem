@@ -18,4 +18,6 @@
             <!-- ./content -->
             
             <!--my name is palak -->
+            <!--my name is palak ==== -->
+            
 <?php include "includes/footer.php"?>
